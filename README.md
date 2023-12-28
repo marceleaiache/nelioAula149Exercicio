@@ -8,4 +8,4 @@ do usuário um mês e mostrar qual foi o salário do funcionário nesse mês, co
 (próxima página)
 </p>
 
-<p>No src deste repositório contém uma imagem com o enunciado do exercício as entradas e saídas esperadas.</p>
+<p>Na pasta principal desse repositório contém uma imagem com o enunciado do exercício as entradas e saídas esperadas.</p>
